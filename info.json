@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "74b3f846c5b3a2b9efc0f4d733365a059f073eb5",
+    "author": "Ralf Herold <ralf.herold@gmx.net>",
+    "time": "2021-07-18 17:35:55",
+    "files": 32,
+    "merge": true,
+    "message": "Merge pull request #41 from rfhb/master\n\nPrepare package maintenance"
+  },
+  "remote": "https://github.com/ropensci/nodbi",
+  "pkg": "nodbi"
+}
