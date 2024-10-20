@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "81a67cdae35965d875fca8396c3c618b4b798429",
+    "author": "Ralf Herold <ralf.herold@gmx.net>",
+    "time": "2024-10-20 17:47:45",
+    "files": 2,
+    "merge": false,
+    "message": "for postgres use create logic also for update\n"
+  },
+  "repo": "https://github.com/ropensci/nodbi",
+  "pkg": "nodbi"
+}
