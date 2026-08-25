@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "b69c7ad1f40e1063152aba0dd1dfbbf04c28e13d",
+    "author": "Ralf Herold <ralf.herold@gmx.net>",
+    "time": "2026-08-25T15:35:26Z",
+    "files": 40,
+    "merge": false,
+    "message": "pkgdown update\n"
+  },
+  "repo": "https://github.com/ropensci/nodbi",
+  "pkg": "nodbi",
+  "time": "2026-08-25T16:17:57Z"
+}
