@@ -1,0 +1,33 @@
+# Authors and Citation
+
+## Authors
+
+- **Ralf Herold**. Author, maintainer.
+  [](https://orcid.org/0000-0002-8148-6748)
+
+- **[Scott Chamberlain](https://scottchamberlain.info/)**. Author.
+  [](https://orcid.org/0000-0003-1444-9135)
+
+- **Rich FitzJohn**. Author.
+
+- **[Jeroen Ooms](https://github.com/jeroen)**. Author.
+
+- **Ivan Tarbakou**. Copyright holder.  
+  mongo-to-sql-converter library
+
+## Citation
+
+Source:
+[`DESCRIPTION`](https://github.com/ropensci/nodbi/blob/HEAD/DESCRIPTION)
+
+Herold R, Chamberlain S, FitzJohn R, Ooms J (2026). *nodbi: Document
+'NoSQL' Database DBI Connector*. R package version 0.15.0.9000,
+<https://docs.ropensci.org/nodbi/>.
+
+    @Manual{,
+      title = {nodbi: Document 'NoSQL' Database DBI Connector},
+      author = {Ralf Herold and Scott Chamberlain and Rich FitzJohn and Jeroen Ooms},
+      year = {2026},
+      note = {R package version 0.15.0.9000},
+      url = {https://docs.ropensci.org/nodbi/},
+    }
